@@ -1,0 +1,25 @@
+.box{
+    width: 65px;
+    height: 65px;
+    perspective: 70px;
+}
+
+.header .box-content {
+    position: relative;
+    transform-style: preserve-3d;
+    transform: rotateY(0);
+    transition: transform 600ms ease-in-out;
+}
+
+.header .box-content .box-front, .box-back {
+    position: absolute;
+    backface-visibility: hidden;
+}
+
+.header .box-content .box-back {
+    transform: rotateY(180deg);
+}
+
+.box:hover .box-content {
+    transform: rotateY(180deg);
+}
