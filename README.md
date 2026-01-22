@@ -1,9 +1,9 @@
 # Portfólio Gabriel Nicolas 
 ## Bem vindos(as) ao meu portfólio! 🎉
 
-Olá! Sou Gabriel Nicolas, um apaixonado por tecnologia e desenvolvimento web. Este portfólio é uma vitrine das minhas habilidades, projetos e evolução contínua na jornada como Desenvolvedor Web Front-End. 
+Sou Gabriel Nicolas e gosto de transformar ideias em interfaces que realmente funcionam. Este portfólio reúne projetos que refletem minha evolução prática no desenvolvimento web front-end, desde os primeiros desafios até soluções mais bem estruturadas.
 
-Meu objetivo é me tornar um desenvolvedor Full-Stack completo, capaz de criar soluções robustas e inovadoras que façam a diferença. Estou constantemente aprendendo e me adaptando às novas tecnologias e tendências do mercado. 🚀
+Tenho como meta me tornar um desenvolvedor Full-Stack, focado em criar aplicações sólidas, bem pensadas e que resolvam problemas reais. Aprender faz parte da minha rotina — tecnologia muda rápido, e eu gosto de acompanhar esse ritmo, testando, errando e evoluindo constantemente.
 
 [<img src="./tela-portifolio-github.gif" alt="Gif da Landing Page do portólio de Gabriel Nicolas">](https://gabrielnicolasr.github.io/portfolio/)
 
